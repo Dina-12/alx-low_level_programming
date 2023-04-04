@@ -2,7 +2,7 @@
 
 /**
  * listint_lent command is to count numbers of elements in a linked listint_t
- * @h:-this is the List to check
+ * @h: this is the List to check
  * Return: number of elements in list
  */
 size_t listint_len(const listint_t *h)
